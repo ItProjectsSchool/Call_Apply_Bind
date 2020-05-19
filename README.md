@@ -1,4 +1,4 @@
-#Call, Apply, Bind -  the difference
+# Call, Apply, Bind -  the difference
 
 In this article, I will show you the difference between call, apply and bind in js. <br/>
 Let's start from an example. <br/>
