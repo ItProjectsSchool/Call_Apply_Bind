@@ -21,7 +21,7 @@ If now you call print function result will be undefined. Why is it happening? <b
 In js, we have such a thing like a context. In plain English, the context is something that calls the function. We can get access to the context using the word this. <br/>
 
 When we use this in print() we use global context. Global context knew nothing about property a and it returns undefined. <br/>
-If we changed context that has a property for our function print, we would get another result (not undefined). <br/>
+If we changed context that has the property a for our function print, we would get another result (not undefined). <br/>
 We can change context using methods call, apply and bind. <br/>
 
 Let's start from call. <br/>
