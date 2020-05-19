@@ -32,7 +32,7 @@ We will get next results.<br/>
 // 1<br/>
 // 2<br/>
 
-The method call change context of our function and set obj like the context in the first case and obj2 like the context in the second case. <br/>
+The method call change context of our function and set obj as the context in the first case and obj2 as the context in the second case. <br/>
 
 Apply is similar to call. The difference is with the way we send the arguments. <br/>
 Let's create a new function. <br/>
