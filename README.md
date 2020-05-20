@@ -54,3 +54,5 @@ let print3 = print2.bind(obj)<br/>
 print3(3,2)<br/>
 
 In this example, we have created a new function print3. The context has been set as obj. And we call our new function later. Bind often is used in events. <br/>
+
+Youtube video - https://youtu.be/AJ-Ur_PwfvQ
